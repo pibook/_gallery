@@ -1,7 +1,7 @@
 ---
 author: epidrome
 image_url: /images/wearable.png
-title: wearable
+title: Φορετός Υπολογισμός 
 year: 2013
 caption: O φορετός υπολογιστής Pebble μεταφέρει τη διάδραση στον καρπό του χεριού και μετατρέπει τον προγραμματισμό της διάδρασης σε μια σύνθεση των πόρων του ρολογιού, του κινητού, και του διαδικτύου.
 license_url: 'https://www.engadget.com/2013/01/25/pebble-smartwatch-review/'
@@ -12,5 +12,5 @@ categories:
   - Κινητός Υπολογισμός
 tags:
   - Pebble
-  - Εξυπνο ρολόϊ
+  - Έξυπνο ρολόϊ
 ---
