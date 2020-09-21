@@ -9,6 +9,7 @@ license_text: Courtesy of Xerox PARC
 categories:
   - Μοντέλα
   - Αρχέτυπα
+  - Τροπική διεπαφή
 tags:
   - Xerox
   - WYSIWYG 
