@@ -9,8 +9,9 @@ license_text: Courtey of Wikimedia
 categories:
   - Μορφές
   - Αρχέτυπα
-  - Μίνιϋπολογιστής 
+  - Μινιϋπολογιστής 
 tags:
-  - DEC 
+  - DEC
+  - PDP
   - Τηλέτυπος
 ---
