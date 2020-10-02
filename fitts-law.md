@@ -8,7 +8,7 @@ license_text: Courtesy of Wikimedia Commons
 categories:
   - Αρχέτυπα
   - tools
-  - method
+  - Μέθοδος
 tags:
   - ergonomics
   - modeling

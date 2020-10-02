@@ -5,5 +5,5 @@ caption: Τα Windows95 ήταν μια πολύ επιτυχημένη προσ
 title: windows95
 year: 1995
 categories:
-  - method
+  - Μέθοδος
 ---

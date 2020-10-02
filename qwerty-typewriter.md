@@ -6,7 +6,7 @@ caption: 'Τα πληκτρολόγια τύπου QWERTY σχεδιάστηκα
 license_url: 'https://pixabay.com/en/antique-classic-retro-typewriter-1867444/'
 license_text: Creative Commons CC0
 categories:
-  - method
+  - Μέθοδος
 tags:
   - Keyboard
 ---

@@ -7,7 +7,7 @@ caption: 'Η μετάβαση σε οθόνες και συστήματα που
 license_url: 'https://en.wikipedia.org/wiki/WYSIWYG#/media/File:Lorem_Ipsum_-_WYSIWYG_en_Latex_-_tekst_als_paden.svg' 
 license_text: Courtesy of wikimedia
 categories:
-  - method 
+  - Μέθοδος 
   - output-device
 tags:
   - WYSIWYG 

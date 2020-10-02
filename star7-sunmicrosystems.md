@@ -8,7 +8,7 @@ license_text:
 categories:
   - definition
   - tools
-  - method
+  - Μέθοδος
 tags:
   - star7
   - sun microsystems

@@ -6,7 +6,7 @@ caption: 'Το video prototyping είναι η κατάλληλη μέθοδος
 license_url:
 license_text:  
 categories:
-  - method
+  - Μέθοδος
 tags:
   - starfire
   - sun microsystems
