@@ -7,7 +7,7 @@ year: 1984
 license_url: 'https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg'
 license_text: Courtesy of wikimedia
 categories:
-  - archetypes
+  - Αρχέτυπα
   - input-device
 tags:
   - Apple

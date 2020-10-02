@@ -6,7 +6,7 @@ caption: 'Η εικονική και η επαυξημένη πραγματικ�
 license_url: 'https://en.wikipedia.org/wiki/Reality%E2%80%93virtuality_continuum'
 license_text: Courtesy of wikimedia
 categories:
-  - archetypes
+  - Αρχέτυπα
   - forms
 tags:
   - Virtual Reality

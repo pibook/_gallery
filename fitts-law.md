@@ -6,7 +6,7 @@ caption: 'Στο παρελθόν έγιναν αρκετές προσπάθει
 license_url: https://commons.wikimedia.org/wiki/File:Fitts_law.png
 license_text: Courtesy of Wikimedia Commons
 categories:
-  - archetypes
+  - Αρχέτυπα
   - tools
   - method
 tags:

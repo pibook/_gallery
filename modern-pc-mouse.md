@@ -7,7 +7,7 @@ caption: 'Σε αντίθεση με τους πρώτες επιτραπέζι�
 license_url: 'https://pixabay.com/en/pc-mouse-mouse-pc-625160/'
 license_text: Creative Commons CC0
 categories:
-  - archetypes
+  - Αρχέτυπα
   - input-device
 tags:
   - Mouse

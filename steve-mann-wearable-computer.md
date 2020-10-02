@@ -6,7 +6,7 @@ caption: 'Ο Steve Mann,το 1990 φορώντας τη συσκευή φορε�
 license_url: https://en.wikipedia.org/wiki/File:Visualfilter_cropped.png
 license_text: Courtesy of Wikipedia.org
 categories:
-  - archetypes
+  - Αρχέτυπα
 tags:
   - Steve Mann
   - Wearable Computer

@@ -7,7 +7,7 @@ caption: 'Το σύστημα Squeak βασίζεται στο περιβάλλ�
 license_url: 'https://en.bmstu.wiki/File:Morphic_squeak.gif' 
 license_text: Courtesy of Bauman National Library 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - forms
   - ecosystem 
 tags:

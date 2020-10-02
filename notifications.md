@@ -6,7 +6,7 @@ caption: "Η μετάβαση στον κινητό και φορετό υπολ
 license_url: 
 license_text: 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - output-device
 tags:
   - Apple

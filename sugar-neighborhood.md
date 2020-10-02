@@ -7,7 +7,7 @@ caption: 'Στο λειτουργικό σύστημα SugarOS που απευθ
 license_url: 'https://en.wikipedia.org/wiki/Sugar_(software)#/media/File:OLPC-Frame.png' 
 license_text: Courtesy of wikimedia
 categories:
-  - archetypes
+  - Αρχέτυπα
   - output-device
 tags:
   - OLPC 

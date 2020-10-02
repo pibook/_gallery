@@ -6,7 +6,7 @@ caption: "Ανεξάρτητα από την μορφή του υπολογισ�
 license_url: "https://www.craigslist.org" 
 license_text: Courtesy of craigslist 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - synthesis 
   - forms
 tags:

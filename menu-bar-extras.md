@@ -6,7 +6,7 @@ caption: "Κάπου ανάμεσα στις κανονικές εφαρμογέ
 license_url: "https://developer.apple.com/design/human-interface-guidelines/macos/extensions/menu-bar-extras/" 
 license_text: Courtesy of Apple 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - output-device
 tags:
   - Apple

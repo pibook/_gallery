@@ -6,7 +6,7 @@ caption: 'Η διάδραση με έναν επεξεργαστή κειμέν�
 license_url: 
 license_text: 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - input-device
 tags:
   - Apple

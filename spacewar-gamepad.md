@@ -6,7 +6,7 @@ caption: 'Λίγο πριν την δημιουργία του πρώτου πο
 license_url: 'https://tomtilley.net/projects/spacewar/images/spacewar-controller.jpg' 
 license_text: Courtesy of Thomas Tilley 
 categories:
-  - archetypes
+  - Αρχέτυπα
   - input-device
 tags:
   - Spacewar 

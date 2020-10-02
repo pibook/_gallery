@@ -6,7 +6,7 @@ caption: 'Τα Windows 10 επανέφεραν το κουμπί της εκίν
 license_url:
 license_text: Courtesy of wikimedia
 categories:
-  - archetypes
+  - Αρχέτυπα
   - GUI
   - Desktop
 tags:

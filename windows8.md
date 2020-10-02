@@ -5,7 +5,7 @@ caption: Τα Windows8 προσφέρουν μια διεπαφή με τον χ
 title: windows8
 categories:
   - method
-  - archetypes
+  - Αρχέτυπα
   - GUI
   - Desktop
 tags:

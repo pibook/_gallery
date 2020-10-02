@@ -7,7 +7,7 @@ caption: 'Tο Σπαθί του Δαμοκλή(Sword of Damocles) είναι έ�
 license_url:
 license_text:
 categories:
-  - archetypes
+  - Αρχέτυπα
   - output-device
 tags:
   - Ivan Shutherland

@@ -7,7 +7,7 @@ year: 1964
 license_url: 
 license_text: 
 categories:
-  - archetypes 
+  - Αρχέτυπα 
   - input-device
 tags:
   - Rand 

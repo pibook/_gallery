@@ -6,7 +6,7 @@ caption: 'Η επικονωνία ανάμεσα στην συσκευή Tab κ�
 license_url: 'http://www.parc.com/'
 license_text: Courtesy of Xerox PARC
 categories:
-  - archetypes
+  - Αρχέτυπα
   - forms
 tags:
   - Xerox PARC
