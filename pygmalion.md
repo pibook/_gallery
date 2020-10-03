@@ -5,5 +5,5 @@ caption: Το σύστημα Pygmalion, στα μέσα της δεκαετία�
 title: pygmalion
 year: 1975
 categories:
-  - tools
+  - Εργαλεία
 ---

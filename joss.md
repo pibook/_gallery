@@ -7,7 +7,7 @@ year: 1963
 license_url: 'https://en.wikipedia.org/wiki/JOSS#/media/File:JOSS_Session.jpg' 
 license_text: Courtesy of Wikimedia 
 categories:
-  - Εργαλεία και Τεχνικές
+  - Εργαλεία
   - Γλώσσες Προγραμματισμού
 tags:
   - Τηλέτυπος 

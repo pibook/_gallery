@@ -5,5 +5,5 @@ caption: Το περιβάλλον προγραμματισμού MIT Scratch έ
 title: MIT Scratch
 year: 2002
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
 ---

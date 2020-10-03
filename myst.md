@@ -6,7 +6,7 @@ caption: 'Το βίντεο παιχνίδι Myst κατασκευάστηκε �
 license_url: 'https://en.wikipedia.org/wiki/Myst#/media/File:Myst-library_and_ship.jpg' 
 license_text: Courtesy of wikimedia
 categories:
-  - tools 
+  - Εργαλεία 
   - definition
   - synthesis
 tags:

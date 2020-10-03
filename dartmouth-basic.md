@@ -8,7 +8,7 @@ license_url: https://250.dartmouth.edu/highlights/basic-revolutionizes-computer-
 license_text: Courtesy of Dartmouth 
 categories:
   - Ορισμός 
-  - Εργαλεία και Τεχνικές
+  - Εργαλεία
 tags:
   - BASIC 
   - Προγραμματισμός 

@@ -8,7 +8,7 @@ license_url: 'https://www.inexhibit.com/case-studies/computer-design-commodore-p
 license_text: Courtesy of inexhibit 
 categories:
   - Μορφές 
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
 tags:
   - Microsoft 
   - BASIC 

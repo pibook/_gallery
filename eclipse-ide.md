@@ -5,5 +5,5 @@ caption: Ένα δημοφιλές περιβάλλον ανάπτυξης αν�
 title: Eclipse IDE
 year: 2001
 categories:
-  - tools
+  - Εργαλεία
 ---

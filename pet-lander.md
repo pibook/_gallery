@@ -8,7 +8,7 @@ license_url: 'https://www.classic-computers.org.nz/blog/2011-10-17-PetDisk.htm'
 license_text: Courtesy of Classic Computers 
 categories:
   - Ορισμός 
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
 tags:
   - Space War 
   - BASIC

@@ -7,7 +7,7 @@ year: 1964
 license_url: 
 license_text: 
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
   - Οπτικός Προγραμματισμός 
 tags:
   - Rand

@@ -8,7 +8,7 @@ license_url: 'https://en.wikipedia.org/wiki/BASIC#/media/File:AtariBasic.png'
 license_text: Courtesy of wikimedia
 categories:
   - Ορισμός 
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
 tags:
   - BASIC 
   - Προγραμματισμός 

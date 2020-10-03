@@ -7,7 +7,7 @@ year: 1997
 license_url: 'https://commons.wikimedia.org/wiki/File:LandMap_Max_patcher.jpg' 
 license_text: Courtesy of wikimedia
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
   - Πολυμέσα
   - Οπτικός προγραμματισμός
 tags:

@@ -6,7 +6,7 @@ caption: 'Για πολλές δεκαετίες η κατασκευή της ί
 license_url: 
 license_text: 
 categories:
-  - tools 
+  - Εργαλεία 
   - definition 
 tags:
   - WWW 

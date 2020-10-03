@@ -7,7 +7,7 @@ license_url: https://commons.wikimedia.org/wiki/File:Fitts_law.png
 license_text: Courtesy of Wikimedia Commons
 categories:
   - Αρχέτυπα
-  - tools
+  - Εργαλεία
   - Μέθοδος
 tags:
   - ergonomics

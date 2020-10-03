@@ -6,7 +6,7 @@ caption: 'Ο συνδυασμός ενός ευέλικτου και επεκτ�
 license_url: 
 license_text: 
 categories:
-  - tools
+  - Εργαλεία
   - command line
 tags:
   - vim 

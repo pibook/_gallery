@@ -5,5 +5,5 @@ caption: Το οπτικό περιβάλλον της Visual Basic έδωσε �
 title: visual-basic-form-designer
 year: 1991
 categories:
-  - tools
+  - Εργαλεία
 ---

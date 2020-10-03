@@ -7,7 +7,7 @@ license_url:
 license_text:  
 categories:
   - definition
-  - tools
+  - Εργαλεία
   - Μέθοδος
 tags:
   - star7

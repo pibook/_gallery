@@ -7,7 +7,7 @@ year: 1973
 license_url: 
 license_text: 
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
   - Μικροϋπολογιστές
 tags:
   - BASIC 

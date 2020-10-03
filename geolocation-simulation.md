@@ -6,7 +6,7 @@ caption: Το iOS SDK περιλαμβάνει την δυνατότητα �
 license_url: 
 license_text: 
 categories:
-  - Εργαλεία και Τεχνικές 
+  - Εργαλεία 
   - Κινητός Υπολογισμός 
 tags:
   - Προσομοίωση
