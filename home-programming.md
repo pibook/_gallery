@@ -7,7 +7,7 @@ caption: Οι πρώτοι προσωπικοί υπολογιστές της δ
 licence_url: 'https://en.wikipedia.org/wiki/BBC_Micro#/media/File:Hard_reset_BBC_Micro_32K_Acorn_DFS.gif'
 license_text: Courtesy of wikimedia
 categories:
-  - preface
+  - Πρόλογος
 tags:
  - Basic
  - BBC micro

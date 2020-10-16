@@ -5,5 +5,5 @@ caption: Το ερευνητικό σύστημα VIDEOPLACE του Myron Kruger
 title: Videoplace 
 year: 1975
 categories:
-  - models
+  - Μοντέλα
 ---

@@ -5,5 +5,5 @@ caption: Η περίπτωση του Microsoft Bob δείνει ότι τόσο
 title: microsoft-bob
 year: 1995
 categories:
-  - models
+  - Μοντέλα
 ---

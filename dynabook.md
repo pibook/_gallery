@@ -7,7 +7,7 @@ caption: 'Το Dynabook είναι ένα σχεδιαστικό όραμα το
 license_url: 'https://en.wikipedia.org/wiki/File:Dynabook.png'
 license_text: Courtesy of wikimedia
 categories:
-  - preface
+  - Πρόλογος
 tags:
   - dynabook
   - tablet

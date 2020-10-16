@@ -6,7 +6,7 @@ caption: 'Η διάδραση έχει περάσει πλέον από την �
 license_url: 'https://www.flickr.com/photos/pestoverde/30120253296'
 license_text: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
 categories:
-  - models
+  - Μοντέλα
   - partner
 tags:
   - Google

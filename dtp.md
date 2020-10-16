@@ -5,5 +5,5 @@ caption: Η επεξεργασία ενός κειμένου ή η προετο�
 title: dtp
 year: 1978
 categories:
-  - models
+  - Μοντέλα
 ---
