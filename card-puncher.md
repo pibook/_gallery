@@ -8,7 +8,7 @@ license_url: 'https://en.wikipedia.org/wiki/User_interface#/media/File:Card_punc
 license_text: Courtesy of wikimedia
 categories:
   - Μορφές 
-  - Συσκευή εισόδου 
+  - Συσκευές Εισόδου 
 tags:
   - Διάτρητη κάρτα 
 ---

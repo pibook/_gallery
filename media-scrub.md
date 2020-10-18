@@ -8,7 +8,7 @@ license_url:
 license_text: 
 categories:
   - Αρχέτυπα 
-  - Συσκευή εισόδου 
+  - Συσκευές Εισόδου 
   - Έμεση διάδραση
 tags:
   - Apple
