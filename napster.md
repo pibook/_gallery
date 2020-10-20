@@ -7,7 +7,7 @@ year: 1999
 license_url: 
 license_text: 
 categories:
-  - definition 
+  - Ορισμός 
 tags:
   - Napster 
   - peer-to-peer 

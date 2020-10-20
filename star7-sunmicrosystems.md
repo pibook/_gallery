@@ -6,7 +6,7 @@ caption: 'Ήδη από το 1990 η Sun Microsystems είχε δημιουργ�
 license_url:
 license_text:  
 categories:
-  - definition
+  - Ορισμός
   - Εργαλεία
   - Μέθοδος
 tags:

@@ -5,5 +5,5 @@ caption: Η ιδέα να δημιουργούνται πίστες από το�
 title: minecraft
 year: 2009
 categories:
-  - definition
+  - Ορισμός
 ---

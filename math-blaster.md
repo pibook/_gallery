@@ -5,5 +5,5 @@ caption: Το εκπαιδευτικό βιντεο-παιχνίδι Math Blaste
 title: math-blaster
 year: 1983
 categories:
-  - definition
+  - Ορισμός
 ---

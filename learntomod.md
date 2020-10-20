@@ -5,5 +5,5 @@ caption: Η ευελιξία και η επεκτασιμότητα του Minec
 title: learntomod
 year: 2010
 categories:
-  - definition
+  - Ορισμός
 ---

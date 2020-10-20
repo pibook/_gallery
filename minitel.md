@@ -10,7 +10,7 @@ categories:
   - input-device
   - output-device
   - Μοντέλα 
-  - definition
+  - Ορισμός
 tags:
   - Minitel
   - Teletel

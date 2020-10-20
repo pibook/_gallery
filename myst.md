@@ -7,7 +7,7 @@ license_url: 'https://en.wikipedia.org/wiki/Myst#/media/File:Myst-library_and_sh
 license_text: Courtesy of wikimedia
 categories:
   - Εργαλεία 
-  - definition
+  - Ορισμός
   - synthesis
 tags:
   - Apple

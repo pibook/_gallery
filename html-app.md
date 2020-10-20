@@ -7,7 +7,7 @@ license_url:
 license_text: 
 categories:
   - Εργαλεία 
-  - definition 
+  - Ορισμός 
 tags:
   - WWW 
   - App 

@@ -6,7 +6,7 @@ caption: 'Η επιφάνεια εργασίας έχει συνδεθεί με 
 license_url: 
 license_text: 
 categories:
-  - definition 
+  - Ορισμός 
   - output-device
 tags:
   - command line 
