@@ -12,4 +12,3 @@ tags:
   - Apple
   - iPad 
 ---
-
