@@ -7,7 +7,7 @@ year: 2015
 license_url: 'https://creativecommons.org/licenses/by-sa/4.0/' 
 license_text: Photo by Fastily CC BY-SA 4.0 
 categories:
-  - Αρχέτυπο 
+  - Αρχέτυπα 
 tags:
   - Apple
   - iPad 
