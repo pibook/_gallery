@@ -5,4 +5,6 @@ caption: Οι σχεδιαστές νέων συσκευών διάδρασης 
 title: mouse-test-software
 categories:
   - Αρχέτυπα
+tags:
+  - Microsoft
 ---
