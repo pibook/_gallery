@@ -1,0 +1,14 @@
+---
+author: epidrome
+title: Colossal Cave Adventure 
+image_url: /images/adventure-videogame.png
+caption: Το πρώτο βιντεοπαιχνίδι περιπέτειας δεν έχει καθόλου γραφικά και βασίζεται σε περιγραφές κειμένου και σε διάδραση με την γραμμή εντολών για την είσοδο και την έξοδο με τον χρήστη. Αυτή η απλή διεπαφή δεν εμπόδισε το βιντεοπαιχνίδι να γίνει δημοφιλές και κυρίως να επηρεάσει την δημιουργία άλλων παρόμοιων που πρόσθεσαν γραφικά και επιπλέον παίκτες. 
+year: 1976 
+license_url: "https://en.wikipedia.org/wiki/Colossal_Cave_Adventure#/media/File:ADVENT_--_Crowther_Woods.png" 
+license_text: Courtesy of Wikimedia
+categories:
+  - Μοντέλα 
+  - Βιντεοπαιχνίδια 
+tags:
+  - Βιντεοπαιχνίδια περιπέτειας 
+---
