@@ -14,4 +14,6 @@ tags:
   - Xerox
   - WYSIWYG 
   - Bravo
+  - Gypsy
+  - Larry Tesler
 ---
