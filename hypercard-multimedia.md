@@ -9,4 +9,6 @@ categories:
   - Πολυμέσα
 tags:
   - Hypercard
+  - Apple
+  - Bill Atkinson
 ---

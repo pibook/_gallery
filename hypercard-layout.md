@@ -6,4 +6,8 @@ title: Hypercard
 year: 1987
 categories:
   - Σύνθεση 
+tags:
+  - Apple
+  - Bill Atkinson
+  - Hypercard
 ---
