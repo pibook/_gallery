@@ -9,6 +9,7 @@ licence_text: Courtesy of Andy Hertzfeld
 categories:
   - Αρχέτυπα 
   - Τρόποι διάδρασης
+  - Τροπική διεπαφή
 tags:
   - Macintosh
   - Liza
