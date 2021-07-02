@@ -7,7 +7,12 @@ caption: 'Το Active Badge που υλοποιήθηκε από το ερευν
 license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
 license_text: Courtesy of Deutsches Museum
 categories:
-  - Αρχέτυπα 
+  - Αρχέτυπα
+  - Μορφές
+  - Διάχυτος Υπολογισμός
+  - Επίγνωση Πλαισίου
+  - Ιδιωτικότητα
+  - Τοποθεσία Χρήστη
 tags:
   - Olivetti 
 ---
