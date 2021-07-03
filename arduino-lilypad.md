@@ -1,12 +1,14 @@
 ---
 author: epidrome
 image_url: /images/arduino-lilypad.jpg
+title: Arduino Lilypad
 caption: Το Arduino Lilypad σχεδιάστηκε έτσι ώστε να διευκολύνει το ράψιμό του σε υφάσματα και να είναι συμβατό με την πλατφόρμα του Arduino. Με αυτόν τον τρόπο, οι σχεδιαστές μπορούν χρησιμοποιήσουν εξοπλισμό και δεξιότητες που ήδη έχουν με εφαρμογή σε ρούχα και αξεσουάρ όπως τσάντες, γάντια, παπούτσια, και καπέλα.
-title: arduino-lilypad
 year: 2007
 categories:
   - Εργαλεία
   - Κατασκευή Πρωτοτύπου
+  - Φορετός Υπολογισμός
 tags:
   - Arduino
+  - Lilypad
 ---
