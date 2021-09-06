@@ -1,15 +1,14 @@
 ---
 author: stelios3g
-title: wristwatch-computer-mann
+title: Φορετός υπολογιστής χεριού 
 image_url: /images/wristwatch-computer-mann.jpg
 caption: 'Οι σχεδιαστές των φορετών υπολογιστών έρχονται αντιμέτωποι με πολλούς περιοριστικούς παράγοντες, ενώ δεν είναι λίγες οι φορές που θυσιάζουν την αισθητική στο βωμό της εργονομίας.'
 license_url:  
 license_text: Courtesy of Steve Mann  
 categories:
-  - forms
+  - Μορφές 
+  - Φορετός Υπολογισμός
 tags:
   - Steve Mann
-  - Wearable
-  - wristwatch
-  - smartwatch
+  - Έξυπνο Ρολόϊ 
 ---
