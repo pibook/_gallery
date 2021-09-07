@@ -9,7 +9,7 @@ license_url: 'https://en.wikipedia.org/wiki/WYSIWYG#/media/File:Lorem_Ipsum_-_WY
 license_text: Courtesy of wikimedia
 categories:
   - Μέθοδος 
-  - output-device
+  - Συσκευές Εξόδου 
 tags:
   - WYSIWYG 
   - Xerox Bravo 
