@@ -14,5 +14,6 @@ categories:
 tags:
   - Spacewar
   - MIT
+  - PDP1
   - Dynabook
 ---
