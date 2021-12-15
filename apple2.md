@@ -12,4 +12,7 @@ categories:
   - Μικρουπολογιστής 
 tags:
   - Apple
+  - BASIC
+  - Lisa
+  - Swyftware
 ---
