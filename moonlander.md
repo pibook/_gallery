@@ -11,14 +11,6 @@ categories:
   - Βιντεοπαιχνίδια 
 tags:
   - Atari 
-  - Breakout
-  - Apple II
-  - Steve Wosniak
-  - Dynabook
-  - Spacewar
-  - Alan Kay
-  - BASIC
-  - Paul Allen
-  - Microsoft
   - DEC
+  - Lunar Lander
 ---
