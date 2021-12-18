@@ -11,5 +11,5 @@ categories:
   - Βιντεοπαιχνίδια 
 tags:
   - Atari 
-  - Pong 
+  - Tennis for Two 
 ---
