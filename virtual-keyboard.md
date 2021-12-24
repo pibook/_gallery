@@ -8,6 +8,7 @@ license_url: "https://en.wikipedia.org/wiki/Virtual_keyboard#/media/File:Keyboar
 license_text: Courtesy of Wikimedia 
 categories:
   - Αρχέτυπα 
+  - Πληκτρολόγιο
 tags:
   - Τηλέτυπος 
   - Τερματικό 
