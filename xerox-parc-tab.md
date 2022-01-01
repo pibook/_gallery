@@ -1,4 +1,4 @@
---
+---
 author: epidrome
 title: Xerox Tab 
 year: 1991
@@ -7,9 +7,11 @@ caption: Η συσκευή τύπου Tab ήταν η μικρότερη στη�
 license_url: 'http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/detail.aspx?id=51'
 license_text: Courtesy of Bill Buxton collection
 categories:
-  - Αρχέτυπα 
+  - Μορφές 
   - Κινητός Υπολογισμός 
+  - Φορετός Υπολογισμός
 tags:
   - PARC 
-  - Έξυπνο κινητό 
+  - Έξυπνο κινητό
+  - Newton
 ---
