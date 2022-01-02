@@ -9,6 +9,6 @@ categories:
   - Συνεργατικά Συστήματα
 tags:
   - Xerox PARC
-  - Βίντεο
-  - Media spaces
+  - Τηλεδιάσκεψη 
+  - Media Space
 ---
