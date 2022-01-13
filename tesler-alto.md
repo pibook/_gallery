@@ -8,9 +8,11 @@ license_text:
 categories:
   - Αρχέτυπα 
   - Επεξεργαστής Κειμένου 
+  - Τροπικότητα
 tags:
   - Xerox Alto 
   - Smalltalk
   - Gypsy
   - Bravo
+  - Larry Tesler
 ---
