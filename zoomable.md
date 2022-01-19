@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: /images/icons-document.jpg
+image_url: /images/zoomable.png
 title: Διεπαφές μεγέθυνσης 
 year: 1995 
 caption: Οι διεπαφές μεγέθυνσης εμφανίζονται από πολύ νωρίς με το Sketchpad και συνεχίζονται με την Smalltalk και το Spatial Dataland, τα οποία χρησιμοποιούν αυτήν την τεχνική για μια πτυχή του αντίστοιχου συστήματος. Η τεχνική της μεγέθυνσης ωριμάζει με το Pad++ για τις εφαρμογές των επιτραπέζιων συστημάτων.
