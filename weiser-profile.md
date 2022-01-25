@@ -6,8 +6,8 @@ caption: 'Ο Marc Weiser θεωρείται ο εμπνευστής της πε�
 license_url: 'http://www.ubiq.com/weiser.html'
 license_text: 'Courtesy of ubiq.com'
 categories:
-  - forms
-  - ubiquitous computing
+  - Μορφές 
+  - Διάχυτος Υπολογισμός 
 tags:
   - Tab
   - Pad
