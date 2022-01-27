@@ -1,6 +1,6 @@
 ---
 author: nickkouk
-title: Αξιολόγηση διαδραστικού προτοτύπου 
+title: Αξιολόγηση διαδραστικού πρωτοτύπου 
 image_url: /images/prototype-evaluation.jpg
 license_url: 'http://yougenics.net/griffis/courses/arts344/project1.php'
 license_text: Courtesy of yougenics
