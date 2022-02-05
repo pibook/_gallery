@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: /images/amaya-web-editor
+image_url: /images/amaya-web-editor.jpg
 title: Επεξεργασία ιστοσελίδων
 year: 1996
 caption: Το σύστημα Amaya παρέχει ολοκληρωμένη πρόβαση στον παγκόσμιο ιστό, όχι μόνο ως φυλομετρητής, αλλά κυρίως ως ένα περιβάλλον επεξεργασίας εγγράφων για δημοσίευση.
