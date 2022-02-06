@@ -9,6 +9,8 @@ license_text: Rochus Keller
 categories:
   - Αρχέτυπα
 tags:
+  - Xerox Alto 
+  - Xerox Star
   - Apple Lisa
   - Smalltalk 
 ---
