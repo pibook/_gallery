@@ -7,5 +7,5 @@ license_url: 'https://el.wikipedia.org/wiki/OpenBSD'
 categories:
   - Αρχέτυπα 
 tags:
-  - BSB 
+  - BSD
 ---
