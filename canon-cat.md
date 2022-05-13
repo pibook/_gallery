@@ -9,8 +9,9 @@ license_text: Courtesy of wikimedia
 categories:
   - Αρχέτυπα 
   - Συσκευές Εισόδου 
+  - Τροπικότητα
 tags:
   - Jef Raskin
-  - Keyboard
-  - Modeless
+  - Canon Cat
+  - Πληκτρολόγιο 
 ---

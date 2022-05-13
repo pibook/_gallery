@@ -7,10 +7,11 @@ caption: 'Οι πρώτες χελώνες είχαν την μορφή του �
 license_url: 'https://en.wikipedia.org/wiki/Logo_(programming_language)#/media/File:IBM_LCSI_Logo_Circles.png'
 license_text: Courtesy of Wikimedia 
 categories:
-  - Ορισμός
-  - Μορφές
+  - Εργαλεία 
   - Εκπαιδευτική Τεχνολογία 
 tags:
   - Seymour Papert 
   - Logo
+  - Scratch
+  - BBC micro
 ---

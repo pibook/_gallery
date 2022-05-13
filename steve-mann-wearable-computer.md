@@ -1,13 +1,14 @@
 ---
 author: stelios3g
-title: steve-mann-wearable-computer
+title: Φορετός υπολογισμός 
+year: 1990
 image_url: /images/steve-mann-wearable-computer.png
-caption: 'Ο Steve Mann,το 1990 φορώντας τη συσκευή φορετού υπολογιστή (wearable computer) που κατασκεύασε.'
+caption: 'Ο Steve Mann φορώντας τη συσκευή φορετού υπολογιστή (wearable computer) που κατασκεύασε.'
 license_url: https://en.wikipedia.org/wiki/File:Visualfilter_cropped.png
 license_text: Courtesy of Wikipedia.org
 categories:
-  - Αρχέτυπα
+  - Μορφές 
+  - Φορετός Υπολογισμός
 tags:
   - Steve Mann
-  - Wearable Computer
 ---

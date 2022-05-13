@@ -8,9 +8,11 @@ license_url: 'https://en.wikipedia.org/wiki/Altair_8800#/media/File:Altair_8800_
 license_text: Courtesy of wikimedia
 categories:
   - Αρχέτυπα 
-  - Μικροϋπολογιστές 
+  - Μικροϋπολογιστές
+  - Προσωπικός Υπολογιστής
 tags:
-  - Basic 
+  - BASIC 
   - LINC 
-  - 
+  - Apple I
+  - Raspberry Pi
 ---

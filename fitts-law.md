@@ -1,16 +1,15 @@
 ---
 author: stelios3g
-title: fitts-law
+title: Ο νόμος του Fitts
 image_url: /images/fitts-law.png
 caption: 'Στο παρελθόν έγιναν αρκετές προσπάθειες μοντελοποίησης του χρήστη και μια από αυτές ήταν του ψυχολόγου Paul Fitts,η οποία έμεινε γνωστή στη βιβλιογραφία ως ο Νόμος του Fitts'
 license_url: https://commons.wikimedia.org/wiki/File:Fitts_law.png
 license_text: Courtesy of Wikimedia Commons
 categories:
   - Αρχέτυπα
-  - Εργαλεία
   - Μέθοδος
 tags:
-  - ergonomics
-  - modeling
-  - usability testing
+  - Εργονομία 
+  - Μοντελοποίηση 
+  - Fitts 
 ---

@@ -1,6 +1,6 @@
 ---
 author: epidrome
-title: Smalltalk Browser
+title: Περιηγητής πηγαίου κώδικα αντικειμένων στην Smalltalk 
 year: 1978
 image_url: /images/smalltalk-browser.png
 caption: Όλα τα αντικείμενα του συστήματος είναι προσβάσιμα με την λειτουργία του *class browser* η οποία επιτρέπει την άμεση μετατροπή του αντίστοιχου κώδικα.
@@ -12,5 +12,5 @@ categories:
 tags:
   - Xerox Alto
   - Smalltalk
-  - Dynabook
+  - Larry Tesler 
 ---

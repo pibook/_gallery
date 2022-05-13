@@ -1,17 +1,17 @@
 ---
-author: GIANNIS-AGGELIS
+author: epidrome 
+image_url: /images/apple-newton.jpg
 title: Αpple Newton
 year: 1993 
-image_url: /images/apple-newton.jpg
-caption: ' Αναγνώριση χειρόγραφων με την χρήση πένας στην οθόνη του Apple Newton Message Pad 2100. '
+caption: Πολύ πριν την επιτυχία του iPad, το Apple Newton προσπάθησε να προσφέρει εύχρηστη διάδραση σε κινητή μορφή για μαθητές και εργαζόμενους βασιζόμενο στην φυσική διάδραση της γραφής, η οποία όμως εκείνη την εποχή δεν είχε την αναγκαία ακρίβεια. 
 license_url: https://www.flickr.com/photos/33638737@N08/18542434599/in/photostream/
 license_text: Courtesy of DAVIDSDIEGO
 categories:
-  - Αρχέτυπα
-  - Ορισμός
+  - Μορφές
+  - Κινητός Υπολογισμός
 tags:
   - Apple
   - Apple Newton
   - iPad
-  - mobile devices
+  - iPhone
 ---

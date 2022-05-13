@@ -6,4 +6,8 @@ title: MIT Scratch
 year: 2002
 categories:
   - Εργαλεία 
+  - Εκπαιδευτική Τεχνολογία
+tags:
+  - Scratch
+  - Logo
 ---

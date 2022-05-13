@@ -7,7 +7,7 @@ license_url:
 license_text: 
 categories:
   - Μέθοδος 
-  - Προτότυπο 
+  - Πρωτότυπο 
 tags:
   - buck 
 ---
