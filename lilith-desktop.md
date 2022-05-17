@@ -15,6 +15,6 @@ tags:
   - Alto
   - Παραθυρικό Περιβάλλον 
   - Ποντίκι 
-  - Alan Kay
+  - Niklaus Wirth
   - Modula
 ---
