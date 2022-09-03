@@ -1,4 +1,4 @@
---
+---
 author: epidrome
 title: Συνεπής απεικόνιση ανάμεσα στην είσοδο και στην έξοδο 
 image_url: /images/mapping-principle.jpg
