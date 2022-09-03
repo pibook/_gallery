@@ -6,7 +6,7 @@ caption: Σε μια συσκευή που έχει την έξοδο σε δι�
 license_url:
 license_text: Don Norman
 categories:
-  - Μέθοδος
+ - Μέθοδος
 tags:
  - Don Norman
 ---
