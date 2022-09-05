@@ -10,6 +10,6 @@ categories:
   - Ορισμός
   - Επιτραπέζιος Υπολογισμός
 tags:
-  - Xerox
+  - Xerox PARC
   - Star
 ---

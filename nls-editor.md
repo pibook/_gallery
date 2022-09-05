@@ -11,7 +11,7 @@ categories:
   - Αρχέτυπα
   - Τροπική διεπαφή
 tags:
-  - Xerox
+  - Xerox PARC
   - WYSIWYG 
   - Bravo
   - NLS

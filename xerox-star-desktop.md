@@ -1,15 +1,17 @@
 ---
 author: epidrome
-image_url: /images/xerox-star-desktop.png
 title: Η επιφάνεια εργασίας του Xerox Star
 year: 1981
+image_url: /images/xerox-star-desktop.png
 caption: Η επιφάνεια εργασίας ως μεταφορά για τη χρήση του υπολογιστή σε γραφικό περιβάλλον ανταποκρίνεται κυρίως στις ανάγκες που είχαν οι πελάτες και χρήστες των πρώτων επιτραπέζιων υπολογιστών, οι οποίοι ήθελαν ένα εργαλείο που να διευκολύνει τις εργασίες σε εκδοτικούς οργανισμούς.
+license_url:
+license_text: Xerox PARC
 categories:
   - Αρχέτυπα
   - Επιφάνεια Εργασίας
   - Παραθυρικό Περιβάλλον
 tags:
-  - Xerox
-  - Star
+  - Xerox PARC
+  - Xerox Star
   - Macintosh
 ---

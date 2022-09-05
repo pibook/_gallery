@@ -11,5 +11,5 @@ categories:
   - Μοντέλα 
 tags:
   - Διδακτορικό 
-  - Xerox
+  - Xerox PARC
 ---

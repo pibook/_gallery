@@ -9,5 +9,5 @@ categories:
   - Ορισμός
 tags:
   - Star
-  - Xerox
+  - Xerox PARC
 ---

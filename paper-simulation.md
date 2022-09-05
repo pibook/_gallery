@@ -13,5 +13,5 @@ categories:
 tags:
   - Star
   - Alto
-  - Xerox
+  - Xerox PARC
 ---

@@ -12,6 +12,6 @@ categories:
   - Συνεργατικά Συστήματα
   - Διάχυτος Υπολογισμός 
 tags:
-  - Xerox
+  - Xerox PARC
   - Liveboard
 ---

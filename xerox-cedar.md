@@ -12,8 +12,8 @@ categories:
   - Τεχνολογία
   - Πρωτότυπο
 tags:
-  - Xerox
-  - Star
-  - Alto
-  - Mesa
+  - Xerox PARC
+  - Xerox Star
+  - Xerox Alto
+  - Xerox Mesa
 ---

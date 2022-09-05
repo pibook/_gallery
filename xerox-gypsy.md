@@ -11,9 +11,9 @@ categories:
   - Αρχέτυπα
   - Τροπική διεπαφή
 tags:
-  - Xerox
+  - Xerox PARC
   - WYSIWYG 
-  - Bravo
-  - Gypsy
+  - Xerox Bravo
+  - Xerox Gypsy
   - Larry Tesler
 ---
