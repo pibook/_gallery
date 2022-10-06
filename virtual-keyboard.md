@@ -5,7 +5,7 @@ image_url: /images/virtual-keyboard.jpg
 caption: Η είσοδος χαρακτήρων στα πρώτους μικρούς προσωπικούς υπολογιστές τσέπης γινόταν με φυσικές διεπαφές και αναγνώριση γραφής ή χειρονομίας. Η Microsoft στις αρχές του 2000 επέλεξε να χρησιμοποιήσει την γραφίδα και την οθόνη αφής για να προβάλει ένα εικονικό πληκτρολόγιο, το οποίο από τότε βελτιώνεται συνέχεια καθώς δανείζεται και στοιχεία από την αναγνώριση χειρονομίας και έτσι αυξάνει την ευχρηστία και την ταχύτητα εισόδου χαρακτήρων. 
 year: 2002 
 license_url: "https://en.wikipedia.org/wiki/Virtual_keyboard#/media/File:Keyboard_on_a_pocket-PC.jpg" 
-license_text: Courtesy of Wikimedia 
+license_text: Wikimedia 
 categories:
   - Αρχέτυπα 
   - Πληκτρολόγιο
