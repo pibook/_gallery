@@ -11,5 +11,5 @@ categories:
 tags:
   - Zork
   - Adventure
-  - Terminal
+  - text-based
 ---
