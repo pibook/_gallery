@@ -7,9 +7,7 @@ caption: Το GameBoy είναι μία από τις πρώτες παιχνι�
 license_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Game-Boy-FL.jpg/220px-Game-Boy-FL.jpg" 
 license_text: Wikipedia
 categories:
-  - Παχνιδομηχανές
-  - Μηχανές στο χέρι
+  - Κονσόλες
 tags:
-  - Handheld game console
-  - Nintendo consoles
+  - Nintendo
 ---
