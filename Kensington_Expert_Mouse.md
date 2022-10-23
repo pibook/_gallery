@@ -6,8 +6,7 @@ caption: 'Το Kensington Expert Mouse ήταν το πρώτο "trackball based
 license_url: 'http://xahlee.info/kbd/kensington_expert_mouse_hist.html'
 license_text: Xah Lee Web
 categories:
-  - Ποντίκι
-  - Τροχός Κύλισης
+  - mouse
 tags:
-  - Trackball
+  - Τροχός Κύλισης
 ---
