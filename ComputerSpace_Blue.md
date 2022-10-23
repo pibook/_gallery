@@ -6,8 +6,8 @@ caption: 'Το ComputerSpace ήταν η πρώτη παιχνιδομηχανή
 license_url: 'https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/'
 license_text: The MTI Press Reader
 categories:
-  - Arcade Machines
+  - graphics
 tags:
-  - Trackball
-  - mouse
+  - Spacewar
+  - Βιντεοπαιχνίδι
 ---
