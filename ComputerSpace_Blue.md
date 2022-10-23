@@ -8,6 +8,6 @@ license_text: The MTI Press Reader
 categories:
   - Arcade Machines
 tags:
-  - Syzygy Engineering
-  - Nutting Associates
+  - Trackball
+  - mouse
 ---
