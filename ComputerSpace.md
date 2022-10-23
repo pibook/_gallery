@@ -1,12 +1,12 @@
 ---
 author: Futsies
-title: Kensington Expert Mouse
-image_url: /images/Trackball.png
-caption: 'Το Kensington Expert Mouse ήταν το πρώτο "trackball based mouse" που εμπορευματοποίησαν οι Kensington το 1989. Η ακρίβεια του την εποχή αυτή, ήταν η ασφαλέστερη επιλογή για ένα καλό ποντίκι για να καλύψει όλες τις γραφικές ανάγκες ενός χρήστη.'
-license_url: 'http://xahlee.info/kbd/kensington_expert_mouse_hist.html'
-license_text: Xah Lee Web
+title: ComputerSpace
+image_url: ComputerSpace-Blue.jpg
+caption: 'Το ComputerSpace ήταν η πρώτη παιχνιδομηχανή και η πρώτη προσπάθεια των Nutting Associates να εμπορευματοποιήσουν των βίντεο παιχνιδιών και των arcade. Ο τρόπος διεπαφής με την παιχνιδομηχανή ήταν απλοήκη, καθώς το παιχνίδι δεν ήταν απαιτητικο στα controls, και ο εξωτερικός σχεδιασμός του ήταν αρκετά "φουτουριστικός" για την εποχή του, πράγμα που θα έλκει αρκετά άτομα που τους ενδιαφέρει η επιστημονική φαντασία.'
+license_url: 'https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/'
+license_text: The MTI Press Reader
 categories:
-  - mouse
+  - HCI
 tags:
-  - Τροχός Κύλισης
+  - Spacewar
 ---
