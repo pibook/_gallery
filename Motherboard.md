@@ -1,5 +1,5 @@
 ---
-author: Kavvadia
+author: Konstantina Kavvadia
 image_url: /images/Motherboard.png
 title: Επεξεργαστής κειμένου ACME 
 year: 1970
