@@ -7,9 +7,7 @@ caption: Το Nintendo DS είναι μία φορητή κονσόλα και �
 license_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nintendo-DS-Fat-Blue.jpg/250px-Nintendo-DS-Fat-Blue.jpg" 
 license_text: Wikipedia
 categories:
-  - Παχνιδομηχανές
-  - Μηχανές στο χέρι
+  - Κονσόλες
 tags:
-  - Handheld game console
-  - Nintendo consoles
+  - Nintendo
 ---
