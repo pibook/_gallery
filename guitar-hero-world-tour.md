@@ -7,7 +7,10 @@ caption: Το Guitar Hero World Tour είναι ένα ρυθμικό βιντε
 license_url: "https://commons.wikimedia.org/wiki/File:Guitar_Hero_World_Tour_drums.jpg" 
 license_text: Irwandy Mazwir, Neversoft
 categories:
-  - Βιντεοπαιχνίδια, Κονσόλες, Μουσική
+  - Βιντεοπαιχνίδια
+  - Κονσόλες
+  - Μουσική
 tags:
-  - Guitar Hero, Guitar Hero World Tour
+  - Guitar Hero
+  - Guitar Hero World Tour
 ---
