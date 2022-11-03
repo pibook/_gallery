@@ -10,7 +10,7 @@ categories:
   - Εργαλεία και Τεχνολογίες
   - Εκπαιδευτική Τεχνολογία
 tags:
-  - AgentSheets
+  - agentcubes
   - scratch
   - Logo
 ---
