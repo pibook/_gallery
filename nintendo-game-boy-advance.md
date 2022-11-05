@@ -7,6 +7,7 @@ caption: Το Game Boy Advance είναι φορητή κονσόλα βιντε
 license_url: "https://en.wikipedia.org/wiki/Nintendo_64#/media/File:N64-Console-Set.jpg" 
 license_text: Evan-Amos
 categories:
+  - Nintendo Game Boy Advance
   - Κονσόλες
   - Μοντέλα
   - Αρχέτυπα 
