@@ -1,8 +1,9 @@
+---
 author: Nektarios Stylianos Karagiannis
 
 image_url: /image/ubuntu4.10.jpg
 
-title: Ubuntu 4.10 V
+title: Ubuntu4.10 V
 
 year: 2004
 
@@ -13,15 +14,15 @@ been GNOME since version 17.10.
 
 licenseurl: https://en.wikipedia.org/wiki/Ubuntu
 
-license_text:Wikipedia
+license_text: Wikipedia
 
 
 Categories : 
--Λειτουργικά συσήματα
+- Λειτουργικά συσήματα
 
 tags:
 - Linux
 - open source software
 -  Nguni philosophy of ubuntu
 - Canonical Ltd,
-
+---
