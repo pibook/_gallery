@@ -1,3 +1,4 @@
+---
 author: Nektarios Stylianos Karagiannis
 image_url: https://github.com/Nek474/images/blob/master/640px-Notepad%2B%2B_v6.9.2_on_Windows_10%2C_with_MediaWiki_1.27.1_source_code.png
 title: πρόγραμμα επεξεργασίας κειμένου και πηγαίου κώδικα
@@ -21,3 +22,4 @@ tags:
   - C
   - Windows
   - Scintilla
+---
