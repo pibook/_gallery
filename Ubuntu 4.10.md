@@ -1,6 +1,6 @@
 author: Nektarios Stylianos Karagiannis
 
-image_url: https://github.com/Nek474/images/blob/master/Ubuntu%204%2C10.jpg
+image_url: /image/ubuntu4.10.jpg
 
 title: Ubuntu 4.10 V
 
@@ -15,12 +15,13 @@ licenseurl: https://en.wikipedia.org/wiki/Ubuntu
 
 license_text:Wikipedia
 
-categories:
- -Software
+
+Categories : 
+-Λειτουργικά συσήματα
 
 tags:
- - Linux
- - open source software
- -  Nguni philosophy of ubuntu
- - Canonical Ltd,
+- Linux
+- open source software
+-  Nguni philosophy of ubuntu
+- Canonical Ltd,
 
