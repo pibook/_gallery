@@ -1,6 +1,6 @@
 ---
 author: Nektarios Stylianos Karagiannis
-image_url: /images/Notepad.png
+image_url: /images/Notepad Thumb.png
 title: πρόγραμμα επεξεργασίας κειμένου και πηγαίου κώδικα
 year: 2003
 caption: Το Notepad++ αναπτύχθηκε από τον Don Ho τον Σεπτέμβριο του 2003. Ο Ho χρησιμοποιούσε αρχικά το JEXT (ένα πρόγραμμα επεξεργασίας κειμένου
