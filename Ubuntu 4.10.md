@@ -1,7 +1,7 @@
 ---
 author: Nektarios Stylianos Karagiannis
 
-image_url: /image/ubuntu4.10.jpg
+image_url: /images/ubuntu4.10.jpg
 
 title: Ubuntu4.10 V
 
