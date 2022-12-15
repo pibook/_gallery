@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: e-liouta
 title: Aldus SuperPaint 3.0
 image_url: /images/acme-editor.png
 year: 1992 
