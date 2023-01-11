@@ -7,7 +7,7 @@ caption: Το PlayStasion είναι 32-bit κονσόλα βιντεοπαιχ�
 license_url: "https://el.wikipedia.org/wiki/PlayStation" 
 license_text: Wikipedia 
 categories:
-  - Κονσόλες 
+  - Κονσόλες
   - Αρχέτυπα
   - Βιντεοπαιχνίδια
 tags:
