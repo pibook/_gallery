@@ -2,7 +2,7 @@
 author: Evangelia Chatzilygeroudi
 title: Text to Image
 year: 1990
-image_url: /images/dancingAnimals6.jpg
+image_url: /images/text-to-image.jpeg
 caption: 'Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
 in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
