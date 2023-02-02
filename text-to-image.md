@@ -8,7 +8,7 @@ in order to be trained on converting text to images. These algorithms even if th
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use!
 The photo caption was created with the use of free Internet software «DeepAI», a Text To Image - AI Image Generator
-and using «Dancing Animals» as input the input text.
+and using «Dancing Animals» as input the input text.'
 license_url: 'https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE'
 license_text: he license terms of the photo can be found here:(https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)[https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE]
 categories:
