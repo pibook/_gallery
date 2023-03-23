@@ -9,8 +9,8 @@ license_text: CompuServe
 categories:
   - Μοντέλα
   - Σύνθεση
-  - Μέσο επικοινωνίας
 tags:
+  - Μέσο επικοινωνίας
   - CompuServe
   - CB Simulator
   - CB Radio
