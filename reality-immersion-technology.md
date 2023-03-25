@@ -1,6 +1,6 @@
 ---
 author: p20poli
-title: reality_immersion_technology
+title: Reality immersion technology
 year: 1995
 image_url: /images/nintendo64.jpg
 caption: "Το Reality Immersion Technology δημιουργήθηκε από την εταιρία  Silicon Graphics, Inc συγκεκριμένα για την χρήση του στον Nintendo 64. Έτσι το είχαν σχεδιάση έτσι ώστε να μπορεί να εκμεταλλεύεται τις διάφορες ιδιαιτερότητες όσο αναφορά την αρχιτεκτονική της μηχανής."
