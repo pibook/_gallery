@@ -2,7 +2,7 @@
 author: Dilaveris
 title: Air Quality Egg
 year: 2012
-image_url: /images/active-badge.jpg
+image_url: /images/Air-Quality-Egg.jpg
 caption: 'Το Egg είναι μια συσκευή με δυνατότητα WiFi που χρησιμοποιεί αισθητήρες για να καταγράφει τις αλλαγές στα επίπεδα καθορισμένων ατμοσφαιρικών ρύπων. Κάθε αυγό μπορεί να ανιχνεύσει τουλάχιστον έναν ατμοσφαιρικό ρύπο – NO2, CO2, CO, O3, SO2, H2S, σωματίδια και πτητικές οργανικές ενώσεις (VOC). Παρακολουθεί τυχόν αλλαγές και ανεβάζει αυτόματα τα δεδομένα στο cloud, όπου είναι προσβάσιμα μέσω της διαδικτυακής πύλης, της εφαρμογής για κινητά ή με μη αυτόματη λήψη συνδέοντας το Egg σε έναν υπολογιστή.'
 license_url: 'https://airqualityegg.com/egg'
 license_text: The Air Quality Egg Learning System
