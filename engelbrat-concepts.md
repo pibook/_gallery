@@ -1,4 +1,3 @@
-
 ---
 author: iparthenios
 image_url: /images/engelbrat-concepts.png
