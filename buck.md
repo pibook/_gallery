@@ -3,8 +3,8 @@ author: epidrome
 title: Buck prototype 
 image_url: /images/buck.png
 caption: Στη φάση της μετάβασης από τα αρχικά προσχέδια σε λειτουργικά πρωτότυπα υπάρχει πολύ μεγάλη ασάφεια αναφορικά με το λογισμικό και το υλικό, ειδικά στις περιπτώσεις που έχουμε νέες συσκευές, όπως ένα έξυπνο κινητό ή άλλες συσκευές διάχυτου υπολογισμού. Το πρωτότυπο υψηλής πιστότητας τύπου Buck γεφυρώνει αυτήν την μετάβαση με τη δημιουργική επαναχρησιμοποίηση υλικού και λογισμικού που ήδη υπάρχει, ακόμη και αν αυτά δεν θα είναι ίδια στο τελικό προϊόν, αρκεί να είναι αντιπροσωπευτικά της διάδρασης.
-license_url: "https://www.researchgate.net/publication/228882871_Information_ergonomics_lectures_for_creative_prototyping"
-license_text: Steve Gill 
+license_url: "https://link.springer.com/chapter/10.1007/11402985_15" 
+license_text: "Springer Nature" 
 categories:
   - Μέθοδος 
   - Πρωτότυπο 
