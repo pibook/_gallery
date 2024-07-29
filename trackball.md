@@ -4,8 +4,8 @@ image_url: /images/trackball.jpg
 title: Trackball 
 year: 1952
 caption: Όπως και η πένα εισόδου, έτσι και η μπάλα κύλισης δημιουργήθηκε αρχικά για να διευκολύνει τον εντοπισμό σημείων πάνω σε μια οθόνη ραντάρ που οπτικοποιεί πλοία. Η μπάλα κύλισης παράμεινε πάντα σε χρήση για ορισμένες εφαρμογές και έδωσε την έμπνευση για την πιο σημαντική βελτίωση στη χρήση του ποντικιού, του οποίου οι τροχοί αντικαταστάθηκαν από μια μικρή μπάλα.
-license_url: "http://billbuxton.com/inputTimeline.html" 
-license_text: Bill Buxton 
+license_url: "https://www.computerhistory.org/revolution/input-output/14/350/1881" 
+license_text: Courtesy of J. Vardalas 
 categories:
   - Αρχέτυπα
   - Συσκευές Εισόδου 
