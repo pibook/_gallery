@@ -3,8 +3,8 @@ author: epidrome
 title: Χωροχρονική ταξινόμηση συνεργατικών συστημάτων 
 image_url: /images/time-space-cscw.jpg
 caption: Η ταξινόμηση των εφαρμογών στον χώρο (διά ζώσης ή εξ αποστάσεως) και στον χρόνο (σύγχρονη ή ασύγχρονη) επιτρέπει την εύκολη ταξινόμηση των κοινωνικών και συνεργατικών εφαρμογών και των λειτουργιών τους. Επίσης, επιτρέπει τον εντοπισμό ευκαιριών για τη δημιουργία νέων τύπων συστήματος.
-license_url:
-license_text: Sofia Ntoulou
+license_url: 'https://commons.wikimedia.org/wiki/File:Cscwmatrix.jpg'
+license_text: Public domain 
 categories:
   - Σύνθεση
   - Συνεργατικά Συστήματα
