@@ -14,4 +14,6 @@ tags:
   - Apple
   - iPod
   - iPhone
+  - Apple Watch
+  - Click wheel
 ---
