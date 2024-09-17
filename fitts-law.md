@@ -1,15 +1,17 @@
 ---
-author: stelios3g
+author: epidrome 
 title: Ο νόμος του Fitts
 image_url: /images/fitts-law.png
-caption: 'Στο παρελθόν έγιναν αρκετές προσπάθειες μοντελοποίησης του χρήστη και μια από αυτές ήταν του ψυχολόγου Paul Fitts,η οποία έμεινε γνωστή στη βιβλιογραφία ως ο Νόμος του Fitts'
-license_url: https://commons.wikimedia.org/wiki/File:Fitts_law.png
-license_text: Wikimedia Commons
+caption: 'Σε μια προσπάθεια να γίνει η σχεδίαση της διεπαφής με τον χρήστη περισσότερο αναλυτική βρέθηκαν νόμοι που διέπουν τις βασικές διαδράσεις με τον υπολογιστή. Ο νόμος του Fitts ορίζει την επίδοση του χρήστη όταν προσπαθεί να πετύχει έναν στόχο στην οθόνη και μπορεί να χρησιμοποιηθεί για την συγκριτική αξιολόγηση εναλλακτικών οπτικοποιήσεων ή εναλλακτικών συσκευών εισόδου.' 
+license_url: 'https://commons.wikimedia.org/wiki/File:Fitts_Law.svg'
+license_text: Wikimedia 
 categories:
   - Αρχέτυπα
   - Μέθοδος
+  - Συσκευές Εισόδου
 tags:
   - Εργονομία 
   - Μοντελοποίηση 
-  - Fitts 
+  - Fitts
+  - Ποντίκι
 ---
