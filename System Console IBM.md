@@ -2,6 +2,8 @@ author: Vasilis Kokkalis
 
 
 title: System Console
+
+
 year: -
 
 image_url:https://github.com/VasilisKokkalis/images1/blob/master/IBM%20System%20console%20thumb.jpg
