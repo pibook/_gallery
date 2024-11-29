@@ -14,7 +14,10 @@ caption: Το αντικείμενο είναι μια οθόνη με προσ�
 license_text: ΙΒΜ
 
 license_url: https://computerhistory.org/collections/
+
+
 categories:
+
   - Αρχέτυπα
   - Μορφές
   - Εφαρμογές
