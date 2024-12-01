@@ -14,7 +14,7 @@ license_text: Computer History
 
 categories:
 
-  - archetypes
+  - Μέθοδος
   - 
 tags:
 
