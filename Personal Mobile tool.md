@@ -1,0 +1,21 @@
+
+author: Vasilis Kokkalis
+
+title: Personal mobile tool
+
+image_url: PERSONAL MOBILE TOOL.jpg
+
+caption: 'Το Personal mobile Tool που κατασκευάστηκε στην Ιαπωνία από τη Sharp  το 2001 ανήκει στην κατηγορία
+Ψηφιακός υπολογιστής/προσωπικός υπολογιστής/φορητός.
+
+license_url: 'https://www.computerhistory.org/collections/catalog/102718570'
+
+license_text: Computer History
+
+categories:
+
+  - archetypes
+  - 
+tags:
+
+  - Sharp
