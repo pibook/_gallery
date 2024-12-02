@@ -1,5 +1,5 @@
 ---
-author:Vasilis Kokkalis
+author: Vasilis Kokkalis
 title: Ταμειακή μηχανή της IBM 
 year: 2000
 image_url:/images/ibm-touchscreen-monitor-cash.jpg
