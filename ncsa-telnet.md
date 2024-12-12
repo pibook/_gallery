@@ -1,18 +1,20 @@
 ---
 author: epidrome
-title: Εφαρμογή τερματικού NCSA Telnet
-image_url: /images/ncsa-telnet.png
+image_url: /images/ncsa-telnet.jpg
+title: Εφαρμογή τερματικού NCSA Telnet 
+year: 1986 
 caption: Η εφαρμογή εικονικού τερματικού NCSA Telnet δημιουργήθηκε για να δώσει εύκολη πρόσβαση μέσω της γραμμής εντολών σε απομακρυσμένους υπερ-υπολογιστές. Η εφαρμογή αυτή βασιζόταν σε αποδεκτές προδιαγραφές επικοινωνίας και ήταν διαθέσιμη σε όλες πλατφορμές Unix, Mac, DOS, Windows, οπότε έγινε πολύ δημοφιλής και πέρα από την επιστημονική κοινότητα. 
 license_url: 
 license_text: 
 categories:
-  - Εργαλεία
-  - Γραμμή Εντολών
+  - Αρχέτυπα
+  - Μορφές
+  - Συσκευές Εισόδου 
+  - Συσκευές Εξόδου
 tags:
-  - UNIX
-  - Apple Macintosh
-  - Microsoft Windows
-  - Εξομοιωτής Τερματικού 
+  - Telnet 
   - VT100
   - NCSA
+  - MSDOS
+  - Macintosh
 ---
