@@ -12,4 +12,5 @@ categories:
   - Προσομοίωση
 tags:
   - Desk
+  - chair
 ---
