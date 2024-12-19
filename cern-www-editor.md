@@ -15,6 +15,6 @@ tags:
   - ViolaWWW
   - W3C
   - CERN WorldWideWeb
-  - CERN Nexus
+  - Nexus
   - NeXT
 ---
