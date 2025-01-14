@@ -11,7 +11,7 @@ categories:
   - Επεξεργαστής Κειμένου
 tags:
   - Bell Labs 
-  - Plan9
+  - Plan 9
   - Rob Pike
   - Sam
   - Acme

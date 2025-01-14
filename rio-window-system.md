@@ -12,7 +12,7 @@ categories:
 tags:
   - UNIX
   - X-Windows
-  - Plan9
+  - Plan 9
   - rio
   - Blit
   - Rob Pike
