@@ -9,6 +9,8 @@ license_text: Microsoft
 categories:
   - Ορισμός
   - Βιντεοπαιχνίδια
+  - Εκπαιδευτική Τεχνολογία
 tags:
   - Minecraft
+  - Rockys Boots
 ---
