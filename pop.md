@@ -12,4 +12,5 @@ categories:
 tags:
   - Apple2
   - Rotoscoping 
+  - Κινούμενο Σχέδιο
 ---
