@@ -10,7 +10,7 @@ categories:
   - Μορφές
   - Βιντεοπαιχνίδια 
 tags:
-  - Atari 
+  - Taito 
   - Spacewar
   - Breakout
   - Space Invaders
